@@ -12,7 +12,7 @@
   <img align="center" alt="Fael-Terraform" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png">    
   <img align="center" alt="Fael-Ansible" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png">        
   <img align="center" alt="Fael-Zabbix" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png">   
-  <img align="right" alt="Fael-desenho" src="https://i.im.ge/2021/09/16/T6M5fJ.png">
+  <img align="right" alt="Fael-desenho" height="100" width="100" src="https://i.im.ge/2021/09/16/T6M5fJ.png">
 </div>
   
   ##
