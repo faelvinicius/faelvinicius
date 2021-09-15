@@ -1,4 +1,8 @@
 ## Rafael Vinícius 
+
+- :brazil: Sou DevOps Engineer e moro em Belo Horizonte/MG
+- 🔭 Atualmente trabalho na OpsTeam https://www.ops.team/
+
  <div>
   <a href="https://github.com/faelvinicius">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=faelvinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
