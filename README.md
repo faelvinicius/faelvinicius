@@ -2,6 +2,7 @@
 
 - :brazil: Sou DevOps Engineer e moro em Belo Horizonte/MG
 - 🔭 Atualmente trabalho na OpsTeam https://www.ops.team/
+- ⚡ Fun fact: Gosto de cerveja, churrasco e punk rock
 
  <div>
   <a href="https://github.com/faelvinicius">
