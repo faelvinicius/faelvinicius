@@ -24,8 +24,7 @@
 
 
   ![Snake animation](https://github.com/faelvinicius/faelvinicius/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>
 
 
 
