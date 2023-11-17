@@ -18,7 +18,6 @@
   <img align="center" alt="Fael-Ansible" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png">        
   <img align="center" alt="Fael-Zabbix" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png">   
   <img align="center" alt="Fael-grafana" height="35" width="35" src="https://user-images.githubusercontent.com/10999/43383564-afa9ea6c-93db-11e8-855b-de8be4f79756.png">     
-  <img align="right" alt="Fael-desenho" height="100" width="100" src="https://i.im.ge/2021/09/16/T6M5fJ.png">
 </div>
   
   ##
